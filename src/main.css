@@ -1,0 +1,29 @@
+
+
+.main {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.title {
+  font-size: 26px;
+  font-weight: 500;
+  color: #333;
+}
+
+.json {
+  margin-top: 12px;
+  padding: 12px 24px;
+  border-radius: 12px;
+  background: #cccccc80;
+  word-break: break-word;
+  white-space: pre-line;
+}
+
+.btn {
+  margin-top: 12px;
+}
