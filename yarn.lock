@@ -485,10 +485,10 @@
     "@rollup/pluginutils" "^4.1.1"
     react-refresh "^0.10.0"
 
-"@xpbox/sdk@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.npmmirror.com/@xpbox/sdk/-/sdk-0.0.1.tgz#edeba80487edf400a769007a90249102600f1df1"
-  integrity sha512-ilb6XHpstAqBPkp1kaPjpkkHruzhCFlH3os1WSHt9+5PHlpTHYWCMIDB367i6V+Ihs7rJrvrXqSaIBD0Qd22Nw==
+"@xpbox/sdk@^0.0.2":
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/@xpbox/sdk/-/sdk-0.0.2.tgz#fcad840c35553832f9e1dbd6ce58e1f8fd0fd559"
+  integrity sha512-fPqlR6phc5VV5vul0806uWJJr6/AsgufXVCFlc4tpET6eSglYN1DNVpUmuE0AMyUUlBiikzamYz0zhtMWV9O8w==
 
 ajv-keywords@^3.5.2:
   version "3.5.2"
