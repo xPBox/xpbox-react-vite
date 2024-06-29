@@ -24,7 +24,7 @@
     "vite-svg-loader": "^5.1.0"
   },
   "dependencies": {
-    "@xpbox/sdk": "^0.0.1",
+    "@xpbox/sdk": "^0.0.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   }
